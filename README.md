@@ -1,6 +1,5 @@
 # datasciencecoursera
 quizzes from coursera
-#Getting and Cleaning Data - Week 4
 
 ## Editing Text Variables
 
